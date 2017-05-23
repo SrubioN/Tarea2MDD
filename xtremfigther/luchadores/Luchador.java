@@ -10,6 +10,9 @@ public class Luchador {
 	public String nombre(){
             return nombre;
         };
+        
+        
+        
 	public MovimientoEspecial miMovimiento;
 	public String golpear(){
 		return "GOLPE POR DEFECTOOOO";

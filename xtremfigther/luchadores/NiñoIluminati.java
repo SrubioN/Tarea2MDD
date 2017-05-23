@@ -15,7 +15,7 @@ public class NiñoIluminati extends DecoradorAcompanante {
     this.luchador = luchador;
     }
         public String nombre(){
-            return luchador.nombre()+"NIÑO ILUMINATIII";
+            return luchador.nombre()+" ,NIÑO ILUMINATIII";
         }
     
     

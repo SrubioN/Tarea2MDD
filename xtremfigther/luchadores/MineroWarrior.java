@@ -2,10 +2,9 @@ package xtremfigther.luchadores;
 
 public class MineroWarrior extends Luchador {
 
-  public String Nombre() {
-        return  "Minero Warrior";
+  public MineroWarrior(){
+    nombre="MINERO WARRIOR !!!!";
     }
-
     @Override
 
     public String golpear() {

@@ -1,8 +1,8 @@
 package xtremfigther.luchadores;
 
 public class HalconDeChicureo extends Luchador{
-	public String Nombre() {
-        return  "HALCON DE CHICUREO!!!!";
+	public HalconDeChicureo(){
+        nombre="HALCON DE CHICUREO!!!!";
         }
         @Override
 	public String golpear(){

@@ -2,10 +2,8 @@ package xtremfigther.luchadores;
 
 public class PanchoDelSur extends Luchador {
 
-    public String Nombre() {
-        return  "Pancho del Sur";
-    }
-
+  public PanchoDelSur(){
+    nombre="PANCHO DEL SUR!!!!";}
     @Override
 
     public String golpear() {

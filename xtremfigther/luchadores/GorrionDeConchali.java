@@ -1,9 +1,10 @@
 package xtremfigther.luchadores;
 
 public class GorrionDeConchali extends Luchador{
-	public String Nombre() {
-        return  "GORRION DE CONCHALI!!!!";
-        }
+public GorrionDeConchali(){
+    nombre="GORRION DE CONCHALI!!!!";	
+    
+}
         @Override
 	public String golpear(){
 		return("PUnhO CEBOLLERO!!!");

@@ -18,7 +18,7 @@ public class NiñoNoPeleen extends DecoradorAcompanante {
     }
 
     public String nombre() {
-        return luchador.nombre() + "NIÑO NO PELEEN";
+        return luchador.nombre() + " ,NIÑO NO PELEEN";
     }
 
     public int usarMovimientoEspecial() {

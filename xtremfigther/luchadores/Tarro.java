@@ -13,9 +13,8 @@ public class Tarro extends DecoradorAcompanante{
     
     Luchador luchador;
     public Tarro(Luchador luchador){
-      //  System.out.println(luchador.nombre);
+     
     this.luchador = luchador;
-   this.luchador.nombre=luchador.nombre;
     }
     
     
